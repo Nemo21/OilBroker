@@ -1,0 +1,53 @@
+[
+  {
+    "key": "Carousel",
+    "data": [
+      {
+        "heading": "This is heading 1",
+        "subHeading": "This is subheading 1",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-5-M1-Platinum-Graphite-01-1:VP2-859x540",
+        "ctaText": "Learn More",
+        "orientationLeft": false
+      },
+      {
+        "heading": "This is heading 2",
+        "subHeading": "This is subheading 2",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-5-M1-Platinum-Graphite-01-1:VP2-859x540",
+        "ctaText": "Learn More",
+        "orientationLeft": true
+      },
+      {
+        "heading": "This is heading 3",
+        "subHeading": "This is subheading 3",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-5-M1-Platinum-Graphite-01-1:VP2-859x540",
+        "ctaText": "Learn More",
+        "orientationLeft": false
+      }
+    ]
+  },
+  {
+    "key": "OurPartners",
+    "data": [
+      {
+        "heading": "ourPartners 1",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xbox-blk-logo-link-list-120x120?wid=40&hei=40"
+      },
+      {
+        "heading": "ourPartners 2",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xbox-blk-logo-link-list-120x120?wid=40&hei=40"
+      },
+      {
+        "heading": "ourPartners 3",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xbox-blk-logo-link-list-120x120?wid=40&hei=40"
+      },
+      {
+        "heading": "ourPartners 4",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xbox-blk-logo-link-list-120x120?wid=40&hei=40"
+      },
+      {
+        "heading": "ourPartners 5",
+        "imageURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xbox-blk-logo-link-list-120x120?wid=40&hei=40"
+      }
+    ]
+  }
+]
