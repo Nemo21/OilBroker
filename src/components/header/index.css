@@ -1,0 +1,27 @@
+.logo
+{
+    width:100px;
+    height:100px;
+}
+
+.header
+{
+    margin:5px;
+    display:flex;
+    justify-content: space-between;
+    border:2px solid black
+}
+
+.list
+{
+    display:flex;
+    list-style-type: none;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+
+.first,.second,.third,.fourth,.fifth,.sixth
+{
+    padding-left:25px ;
+    padding-right: 25px ;
+}

@@ -1,5 +1,6 @@
 import React from 'react'
 import components from './constants'
+//install react router dom
 
 const Home = ({sections}) => {
   return (
