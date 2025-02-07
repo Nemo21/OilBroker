@@ -1,11 +1,13 @@
-import './App.css';
-import Home from './pages/Home';
-import HomeData from './data/HomeData'
+import "./App.css";
+import Home from "./pages/Home";
+import HomeData from "./data/HomeData";
+import Header from "./components/header";
 
 function App() {
   return (
     <div className="App">
-      <Home sections={HomeData}/>
+      <Header />
+      <Home sections={HomeData} />
     </div>
   );
 }
